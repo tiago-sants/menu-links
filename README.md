@@ -29,7 +29,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O cartão de apresentação facilita aos recrutadores e amigos a acessar perfis inportantes e fazer contato.
+O cartão de apresentação facilita aos recrutadores e amigos a acessar perfis importantes e fazer contato.
+
+<h5 align="center">
+   <a href="https://tiago-sants.github.io/menu-links/">
+    <img alt="Projeto" src="https://img.shields.io/badge/-CLIQUE AQUI PARA VER O PROJETO-000?style=flat&logo=google-chrome&logoColor=FFFFFF" />
+  </a>
+</h5>
 
 ## 🔖 Layout
 
